@@ -1,0 +1,13 @@
+{
+  "name": "serverelias",
+  "version": "1.0.0",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node teste.js --no-flag --debug --inspect"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
